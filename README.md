@@ -3,7 +3,7 @@
 
 ## Анастасия Телесницкая ✨
 
-Меня зовут Настя, я иллюстратор со стажем из Москвы которая решила попробовать себя в совершенно новой сфере.
+Привет, меня зовут Настя, я иллюстратор со стажем из Москвы которая решила попробовать себя в совершенно новой сфере.
 Теперь я Junior QA-инженер, так же продолжаю учёбу по программе [Инженер по тестированию: с нуля до middle](https://netology.ru/programs/qa-middle#/lessons)
 
 ### [Моё резюме](https://hh.ru/resume/6b90c6a9ff0b92f2e70039ed1f574267727146)  
@@ -25,9 +25,6 @@ Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium
 * [Java для тестировщиков](https://github.com/nancygespens/AnastasiaTelesnitckaya/blob/6631642b4b33f22c98db5b1af473aed92058fa37/Certificates/certificate%20(2).pdf)
 * [Автоматизированное тестирование](https://github.com/nancygespens/AnastasiaTelesnitckaya/blob/6631642b4b33f22c98db5b1af473aed92058fa37/Certificates/certificate%20(3).pdf)
 
-### Я в социальных сетях
+### [Я в социальных сетях](https://linktr.ee/gespens) 👋
 
-<p align="left">
-<a href="https://twitter.com/@nancy_gespens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nancy_gespens" height="30" width="40" /></a>
-<a href="https://instagram.com/gespens/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gespens" height="30" width="40" /></a>
-</p>
+
