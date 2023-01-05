@@ -15,7 +15,7 @@ Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Report Portal, Postman, Selenium
 * **Тестирование веб-сайта** (составление тестовой документации, поиск багов, тестирование вёрстки)  
   *[Курсовой проект](https://github.com/netology-code/iqa-diplom/blob/main/README.md)*  
   *[Решение](https://docs.google.com/spreadsheets/d/1yurVPMyOh-df79Js7UHtHKyONZlm5ih0SNKLL2n-pWY/edit?usp=share_link)*  
-* **Автоматизация тестирования комплексного сервиса**, взаимодействующего с СУБД и API банка (планирование тестирования, автоматизация тестирования (UI, API-тесты, запросы в БД), подготовка отчётных документов, интеграция с CI и Allure)  
+* **Автоматизация тестирования комплексного сервиса**, взаимодействующего с СУБД и API банка (планирование тестирования, автоматизация тестирования (UI, запросы в БД), подготовка отчётных документов, интеграция с Allure)  
   *[Курсовой проект](https://github.com/netology-code/aqa-qamid-diplom)*  
   *[Решение](https://github.com/nancygespens/Aqa_qamid_CourseWork.git)*  
 
