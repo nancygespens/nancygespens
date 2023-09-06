@@ -1,7 +1,7 @@
 ![inf_aug_Asset 4](https://github.com/nancygespens/nancygespens/assets/108212488/5e636194-33f2-4a37-a8de-28f03042032f)
 
 
-## Anastasia Telesnitckaya | Junior QA Engineer ✨
+## Anastasia Telesnitckaya | QA Engineer ✨
 
 Hello! I'm Anastasia, a passionate and dedicated individual who is embarking on a new journey as a Junior QA Engineer. With a background in illustration spanning 7 years, I bring a unique perspective and attention to detail to the world of software testing. This GitHub portfolio showcases my progress, projects, and growth in the field of QA engineering.
 
