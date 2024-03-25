@@ -1,15 +1,12 @@
 ![inf_aug_Asset 4](https://github.com/nancygespens/nancygespens/assets/108212488/5e636194-33f2-4a37-a8de-28f03042032f)
 
 
-## Anastasia Telesnitckaya | QA Engineer ✨
+## Anastasia Telesnitckaya ✨
 
-Hello! I'm Anastasia, a passionate and dedicated individual who is embarking on a new journey as a Junior QA Engineer. With a background in illustration spanning 7 years, I bring a unique perspective and attention to detail to the world of software testing. This GitHub portfolio showcases my progress, projects, and growth in the field of QA engineering.
+Hello! I'm Nastia, a Junior QA Engineer with an inquisitive mind and a strong passion for software testing. Seeking an opportunity to start a career in software testing and become part of a team where I can grow, learn, and contribute.
 
-* My [resume](https://github.com/nancygespens/nancygespens/files/12651858/TelesnitskayaA_QA.pdf)
-
-
-
-* Started the course [CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=693bd9d6466c69cdc70a581fef9fa300&position=2&results_level=first-level-results&term=cs50&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+with+Python&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
+* My CV [ru](https://github.com/nancygespens/nancygespens/files/14741155/Telesnitskaya_CV_Ru.pdf) | 
+[eng](https://github.com/nancygespens/nancygespens/files/14741163/Telesnitskaya_CV_Eng.pdf)
 
 
 ---
@@ -18,7 +15,7 @@ Hello! I'm Anastasia, a passionate and dedicated individual who is embarking on 
 [![My Skills](https://skillicons.dev/icons?i=js,html,selenium,docker,postman,kotlin,idea,vscode,androidstudio,gradle,grafana,nodejs,replit)](https://skillicons.dev)
 
 ---
-## Projects
+## Educational Projects
 
 * **Website Testing https://henderson.ru** (Creating a checklist, test cases, bug and defect identification, reporting issues)  
   *[Course project](https://github.com/netology-code/iqa-diplom/blob/main/README.md)*  
