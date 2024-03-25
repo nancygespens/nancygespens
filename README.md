@@ -3,11 +3,10 @@
 
 ## Anastasia Telesnitckaya ✨
 
-Hello! I'm Nastia, a Junior QA Engineer with an inquisitive mind and a strong passion for software testing. Seeking an opportunity to start a career in software testing and become part of a team where I can grow, learn, and contribute.
+Hello! I'm Nastia, a Junior QA Engineer (Tester) with an inquisitive mind and a strong passion for software testing. Seeking an opportunity to start a career in software testing and become part of a team where I can grow, learn, and contribute.
 
 * My CV [ru](https://github.com/nancygespens/nancygespens/files/14741155/Telesnitskaya_CV_Ru.pdf) | 
 [eng](https://github.com/nancygespens/nancygespens/files/14741163/Telesnitskaya_CV_Eng.pdf)
-
 
 ---
 ## Some tools I use
@@ -37,6 +36,19 @@ Hello! I'm Nastia, a Junior QA Engineer with an inquisitive mind and a strong pa
 * **Graduation project** (Mobile app testing automation)  
   *[Course project](https://github.com/netology-code/qamid-diplom/tree/main)*  
   *[Result](https://github.com/nancygespens/qamid-diplom)* 
+
+---
+## 🤝 Connect with me:
+
+
+<h2 align="left">
+     <a href="https://t.me/gespens">
+     <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" width="50" height="50"/>
+     </a>
+     <a href="https://www.instagram.com/gespens">
+     <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50"/>
+     </a>
+  </h2>  
 
 ---
 <img src="https://myreadme.vercel.app/api/embed/nancygespens?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
