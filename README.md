@@ -1,7 +1,7 @@
 ![inf_aug_Asset 4](https://github.com/nancygespens/nancygespens/assets/108212488/5e636194-33f2-4a37-a8de-28f03042032f)
 
 
-## Anastasia Telesnitckaya ✨
+## Anastasia Telesnitskaya ✨
 
 Hello! I'm Nastia, a graphic designer with 8 years of experience, now pursuing a new path as a Full Stack Developer. I am passionate about combining my creative design background with modern web development technologies.
 
