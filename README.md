@@ -3,7 +3,7 @@
 
 ## Anastasia Telesnitskaya ✨
 
-Hello! I'm Nastia, a graphic designer with 8 years of experience, now pursuing a new path as a Full Stack Developer. I am passionate about combining my creative design background with modern web development technologies.
+Hello! I'm Nastia, a graphic designer, now pursuing a new path as a Full Stack Developer. I am passionate about combining my creative design background with modern web development technologies.
 
 ---
 ## Some tools I use
