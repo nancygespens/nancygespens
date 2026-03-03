@@ -23,7 +23,7 @@
 - 🤖 Recently integrated **AI APIs** (HuggingFace / Llama 3.1) into a real project
 - 📚 Finishing **Scrimba Frontend Career Path** (Advanced React) + learning **TypeScript**
 - 🧠 I think about UX before I write a single line of CSS — designer habit, useful in dev
-- 📍 Moscow, Russia
+- 📍 Remote · Open to international teams
 
 ---
 
