@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍳 [Chef Claude](https://github.com/nancygespens/chef-claude-app) · [Live Demo ↗](https://voluble-pasca-573284.netlify.app/)
+### 🍳 [Chef Claude](https://github.com/nancygespens/chef-claude-app) · [Live Demo ↗](https://chef.gespens.dev/)
 > **React 18 · Vite · HuggingFace API · Meta Llama 3.1**
 
 Tell it what's in your fridge. Get a real recipe back. Powered by AI.  
@@ -57,7 +57,7 @@ Built with React components, async API calls, `.env` security, and `react-markdo
 
 ---
 
-### 🧠 [Quizzical](https://github.com/nancygespens/quizzical) · [Live Demo ↗](https://admirable-belekoy-1e17d6.netlify.app/)
+### 🧠 [Quizzical](https://github.com/nancygespens/quizzical) · [Live Demo ↗](https://quiz.gespens.dev/)
 > **React 19 · Vite · Open Trivia DB API · react-confetti**
 
 Trivia quiz app — 24 categories, live API questions, confetti for perfect scores.  
@@ -65,7 +65,7 @@ Full game flow, answer feedback, dynamic class names with `clsx`, responsive lay
 
 ---
 
-### 🎲 [Tenzies](https://github.com/nancygespens/tenzies) · [Live Demo ↗](https://spectacular-biscuit-3ae0e8.netlify.app/)
+### 🎲 [Tenzies](https://github.com/nancygespens/tenzies) · [Live Demo ↗](https://tenzies.gespens.dev/)
 > **React 19 · Vite · nanoid · react-confetti**
 
 Dice game with real pip visuals (CSS Grid, no numbers!), live timer, roll counter, and confetti.  
@@ -73,7 +73,7 @@ Full keyboard accessibility with `aria-pressed`, `aria-live` regions throughout.
 
 ---
 
-### 🎬 [Find Your Film](https://github.com/nancygespens/movie-watchlist) · [Live Demo ↗](https://glittery-biscuit-51e50f.netlify.app/)
+### 🎬 [Find Your Film](https://github.com/nancygespens/movie-watchlist) · [Live Demo ↗](https://film.gespens.dev/)
 > **JavaScript · OMDb API · LocalStorage**
 
 Movie search with ratings, genres, full plot — and a watchlist that actually remembers what you saved.  
@@ -81,7 +81,7 @@ Multi-page architecture, `async/await`, error handling, responsive Flexbox layou
 
 ---
 
-### 🎨 [Color Scheme Generator](https://github.com/nancygespens/color-scheme-generator) · [Live Demo ↗](https://serene-gelato-1b6580.netlify.app/)
+### 🎨 [Color Scheme Generator](https://github.com/nancygespens/color-scheme-generator) · [Live Demo ↗](https://color.gespens.dev/)
 > **JavaScript · The Color API**
 
 Generate harmonious color palettes from any base color. A tool I'd actually use at work.  
@@ -89,7 +89,7 @@ Custom dropdown UI, click-to-copy HEX, live swatches, fully responsive.
 
 ---
 
-### 🍕 [Pizza Ordering System](https://github.com/nancygespens/restaurant-ordering-app) · [Live Demo ↗](https://splendid-kleicha-e9b8ea.netlify.app/)
+### 🍕 [Pizza Ordering System](https://github.com/nancygespens/restaurant-ordering-app) · [Live Demo ↗](https://pizza.gespens.dev/)
 > **JavaScript · Vite · LocalStorage**
 
 Interactive ordering app with star ratings, real-time order summary, and payment modal.  
