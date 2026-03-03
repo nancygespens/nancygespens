@@ -10,7 +10,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@gespens-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gespens)
 [![Email](https://img.shields.io/badge/Email-nansygespens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nansygespens@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon...-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-gespens.dev-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](https://gespens.dev)
 
 </div>
 
