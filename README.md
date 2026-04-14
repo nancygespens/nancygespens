@@ -8,9 +8,10 @@
 
 *Spent 10 years making things look good. Now making them actually work too.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasia--telesnitskaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-telesnitskaya/)
 [![Telegram](https://img.shields.io/badge/Telegram-@gespens-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gespens)
-[![Email](https://img.shields.io/badge/Email-nansygespens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nansygespens@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-gespens.dev-blueviolet?style=for-the-badge&logo=firefox&logoColor=white)](https://gespens.dev)
+[![Email](https://img.shields.io/badge/Email-nansygespens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nansygespens@gmail.com)
 
 </div>
 
