@@ -95,11 +95,3 @@ Custom dropdown UI, click-to-copy HEX, live swatches, fully responsive.
 
 Interactive ordering app with star ratings, real-time order summary, and payment modal.  
 Vanilla JS state management, DOM manipulation, cross-browser responsive design.
-
----
-
-## 📄 CV
-
-> 📥 **[Download CV (English)](https://docs.google.com/document/d/1BZZXiE_sE-ITx1iY0VCaPGWU2XT8NXK1/edit?usp=drive_link&ouid=113264450835687566626&rtpof=true&sd=true)**  
-> 📥 **[Download CV (Russian)](https://docs.google.com/document/d/1mnw4RQahV1d6Y0FMtpq0ATLcS-r_oUOg/edit?usp=drive_link&ouid=113264450835687566626&rtpof=true&sd=true)**
-
