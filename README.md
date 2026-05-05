@@ -4,9 +4,10 @@
 
 # Hey, I'm Nastia 👋
 
-### Junior Frontend Developer · Designer · Pixel Wrangler
+### Senior Graphic Designer · Illustrator · Frontend Developer · Pixel Wrangler
 
-*Spent 10 years making things look good. Now making them actually work too.*
+
+*Spent 10 years making things look good. Now making them actually work, too.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anastasia--telesnitskaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasia-telesnitskaya/)
 [![Telegram](https://img.shields.io/badge/Telegram-@gespens-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gespens)
@@ -39,8 +40,9 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
